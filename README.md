@@ -12,7 +12,6 @@
 | ![Edge](https://riskevolutioninflationservice.azurewebsites.net/Icon/Generic/Get?Category=browsericons&SubCategory=Raw&Size=96x96&Name=edge) | **QQ Browser**         | ~70M        | Popular in **China**, featuring strong integration with Tencent’s services and optimized for fast browsing. | Integrated with Tencent services.       |
 | ![Edge](https://riskevolutioninflationservice.azurewebsites.net/Icon/Generic/Get?Category=browsericons&SubCategory=Raw&Size=96x96&Name=edge) | **Maxthon Browser**    | ~20M        | Cloud-based browser with integrated **note-taking**, **password manager**, and **multi-account syncing**. | Great for productivity with built-in tools. |
 
-
 ### 📋 **Comprehensive List of 25+ Production Web Browsers with User Base & Niche**
 | Browser               | Users       | Niche/Key Features |
 |-----------------------|-------------|---------------------|
