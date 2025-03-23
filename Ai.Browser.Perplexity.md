@@ -3,6 +3,9 @@
 ## 🚀 Overview
 **Perplexity AI**, led by CEO **Aravind Srinivasan**, is set to launch **Comet**, an advanced **AI-powered web browser** designed to revolutionize internet browsing with "agentic" capabilities. Announced in **February 2025**, Comet aims to simplify workflows and provide AI-driven assistance at a fraction of the cost of traditional personal assistants.
 
+![image](https://github.com/user-attachments/assets/a22e65fe-8a79-458d-b5dd-adcee53839a2)
+
+
 ---
 
 ## 🔍 Key Features and Goals
