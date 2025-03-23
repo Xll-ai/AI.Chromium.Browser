@@ -1,5 +1,4 @@
-# Cost of Buildi
-Perplexity AI Browser + Chromium Browser Analysis
+
 
 # Cost Analysis: Building an AI-Powered Chromium Browser
 
